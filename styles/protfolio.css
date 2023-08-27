@@ -197,7 +197,12 @@ main section{
 
 footer{
     display: flex;
+    gap: 100px;
     background: #FFF8F3; 
     padding: 130px 230px;
     margin-top: 115px;
+}
+
+.footer-column{
+    width: 50%;
 }
